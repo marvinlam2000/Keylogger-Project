@@ -1,7 +1,7 @@
 # Keylogger Project
 
 ## Objective
-FOR RESEARCH PURPOSE ONLY! Developed a keylogging application to reseach keystroke capturing techniques, understand malware behavior, encrypting/decrypting files, and enhance detection and mitigation strategies. This project aimed to deepen my knowledge of cybersecurity threats, ethical hacking, and endpoint solutions. 
+FOR RESEARCH PURPOSE ONLY! Developed a keylogging application to research keystroke capturing techniques, understand malware behavior, encrypting/decrypting files, and enhance detection and mitigation strategies. This project aimed to deepen my knowledge of cybersecurity threats, ethical hacking, and endpoint solutions. 
 
 ### Skills Learned
 
